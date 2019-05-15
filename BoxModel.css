@@ -1,0 +1,32 @@
+/* Olivia Bocchetti
+* Due Date 
+* Box Model
+*/
+
+/* The universal selector */
+
+* { margin: 0;
+    padding: 0;
+
+}
+
+/* Body properties here */ 
+
+body {
+margin:-top
+margin:-right
+margin:-bottom
+margin:-left
+   margin: 5x 10px 1px 10px 
+
+padding:-top
+padding:-right
+padding:-bottom
+padding:-left
+    padding: 
+}
+    
+h1{
+    border: 2px dotted blue;
+}
+
